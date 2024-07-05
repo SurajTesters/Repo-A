@@ -9,5 +9,9 @@ public static void main(String[] args) {
 	LaunchFlipkart ob = new LaunchFlipkart();
 	WebDriver driver = new ChromeDriver();
 	driver.get("https://www.flipkart.com/");
+	driver.get("https://pyramidcore.pyramidci.com/security/PCILoginNew.aspx");
+	driver.get("https://pyramidcore.pyramidci.com/security/PCILoginNew.aspx");
+	xdfgdfhfgh
+
 }
 }
